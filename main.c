@@ -4,12 +4,6 @@
 #include <stdio.h>
 
 /*
-    My information:
-
-    My name is Thomas Smallwood, my github is www.github.com/davedude1011,
-    born in cyprus, living in robertsbridge england,
-    the current date is sunday the 13th of april 2025
-
     this project is CS50 CHESS, a fairly simple chess bot that uses the Minimax
     algorithm to search through possible moves, then uses bitboards and piece
     values to numerically choose which move in the tree is most effective
