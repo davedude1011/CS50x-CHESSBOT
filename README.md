@@ -1,13 +1,5 @@
 # CS50 CHESSBOT
 
-### [VIDEO DEMONSTRATION](https://www.youtube.com/watch?v=fs7WaSePN8Q&t=5s)
-
-### My information:
-
-#### My name is Thomas Smallwood, my github is www.github.com/davedude1011,
-#### born in cyprus, living in robertsbridge england,
-#### the current date is sunday the 13th of april 2025
-
 ### Project information:
 
 #### This Project is a Chess playing agent that uses the common Minimax algorithm for move tree searching, and its optimized using bitboard anotation.
